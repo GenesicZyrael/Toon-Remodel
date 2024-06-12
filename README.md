@@ -2,8 +2,8 @@
 To add to repo:
 
 	{
-		"url": "https://github.com/GenesicZyrael/CrimsonArchives",
-		"repo_name": "Crimson Archives",
+		"url": "https://github.com/GenesicZyrael/Toon-Remodel",
+		"repo_name": "Toon-Remodel",
 		"repo_path": "./repositories/crimson-archives",
 		"has_core": true,
 		"core_path": "bin",
