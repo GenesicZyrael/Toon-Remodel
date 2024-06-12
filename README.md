@@ -4,7 +4,7 @@ To add to repo:
 	{
 		"url": "https://github.com/GenesicZyrael/Toon-Remodel",
 		"repo_name": "Toon-Remodel",
-		"repo_path": "./repositories/crimson-archives",
+		"repo_path": "./repositories/toon-remodel",
 		"has_core": true,
 		"core_path": "bin",
 		"data_path": "",
